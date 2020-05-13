@@ -1795,6 +1795,13 @@ ul ul {
     margin-bottom: 0
 }
 
+.col-sm-4 p {
+    text-align: center;
+}
+.col-sm-4 ul {
+    padding-left: 80px;
+}
+
 .list-unstyled {
     padding-left: 0;
     list-style: none
