@@ -169,7 +169,7 @@ a:hover {
 }
 .d-bloc .panel,
 .l-bloc {
- color:rgba(0,0,0,.5)
+ color:rgba(0,0,0,.6)
 }
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -643,7 +643,7 @@ h4 {
  box-shadow:0 4px 9px rgba(0,0,0,.3)
 }
 .black-background {
- background-color:rgba(126, 112, 74, 0.7);
+ background-color:rgba(94, 84, 56, 0.7);
  padding:40px 40px 40px 40px
 }
 .bold-link {
